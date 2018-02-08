@@ -8,9 +8,10 @@ Por favor, antes de empezar, asegurate de que tienes todos los pre-requisitos cu
 # Pre-requisitos
 
 - Crearte una cuenta en github
-- [Tener instalado un cliente de git en tu máquina]()
+- [Tener instalado un cliente de git en tu máquina](github/index.md#). Puedes seguir esta [guía](c%C3%B3mo-instalar-git-en-tu-m%C3%A1quina)
 - Tener instalado [**nodejs**](https://nodejs.org/es/download/)
 - Tener instalado [**Atom**](http://flight-manual.atom.io/getting-started/sections/installing-atom/)
+- Tener instalado [**Cmder**](http://cmder.net/) . Puedes ver cómo instalarlo [aquí](github/index.md#windows)
 
 
 # Orden sugerido de consulta
