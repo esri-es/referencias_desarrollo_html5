@@ -14,7 +14,7 @@ Easy Peasy! Eso es fácil de hacer no?
 
 > [Instalación de **Cmder**](c%C3%B3mo-instalar-git-en-tu-m%C3%A1quina) (hasta el minuto 1:17).
 
-[git en Cmder] (https://youtu.be/BFhQfTPEDHw?t=1m18s)
+[Usando git en Cmder](https://youtu.be/BFhQfTPEDHw?t=1m18s)
 
 ### Linux / Mac
 
