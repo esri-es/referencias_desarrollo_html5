@@ -4,6 +4,7 @@ Como verás esta guía está organizada en carpetas. Para sacar el máximo parti
 
 Por favor, antes de empezar, asegurate de que tienes todos los pre-requisitos cumplidos.
 
+> Si la parte de github te cuesta un poco, puedes empezar a crear proyectos colaborativos con [glitch.com](https://glitch.com/)
 
 # Pre-requisitos
 

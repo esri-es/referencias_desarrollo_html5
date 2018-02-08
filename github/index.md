@@ -137,3 +137,5 @@ git status
 ## Referencias para tener a mano
 
 [Chuleta commandos git](https://www.git-tower.com/blog/git-cheat-sheet/)
+
+[Oh! Shit Git](http://ohshitgit.com/)
