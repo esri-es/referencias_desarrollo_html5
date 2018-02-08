@@ -1,3 +1,8 @@
+# Recordatorio importante
+
+> Recuerda que para que **Emmet** funcione correctamente, debes utilizarlo una vez hayas guardado el documento con la extensión correcta. Es lo que le permitirá a **Emmet** aplicar las reglas adecuadas al documento que estés editando.
+
+
 # Dónde encontrar plugins para Atom
 
 [Atom packages](https://atom.io/packages)
