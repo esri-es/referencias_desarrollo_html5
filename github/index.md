@@ -12,7 +12,7 @@ Easy Peasy! Eso es fácil de hacer no?
 
 ### Windows
 
-> [Instalación de **Cmder**](c%C3%B3mo-instalar-git-en-tu-m%C3%A1quina) (hasta el minuto 1:17).
+> [Instalación de **Cmder**](https://youtu.be/BFhQfTPEDHw) (hasta el minuto 1:17).
 
 [Usando git en Cmder](https://youtu.be/BFhQfTPEDHw?t=1m18s)
 
