@@ -18,6 +18,7 @@ Por favor, antes de empezar, asegurate de que tienes todos los pre-requisitos cu
 # Orden sugerido de consulta
 
 - [Cómo funciona un navegador](navegador/index.md)
+- [HTML5 y Diseño Moderno](html5/index.md)
 - [HTML5](html5/index.md)
 - [CSS](css/index.md)
 - [Javascript](javascript/index.md)

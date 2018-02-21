@@ -4,6 +4,10 @@
 
 [Estándar](https://html.spec.whatwg.org/)
 
+# Introducción al Desarrollo Web Moderno
+
+[An Introduction to Modern Web Technologies
+for programmers & Computer Scientists](https://leaverou.github.io/talks/intro/#intro)
 
 # HTML
 
